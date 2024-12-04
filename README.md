@@ -23,7 +23,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek Anda:
 
 1. Install:
    ```bash
-   pkg update && pkg upgrade && pkg install nodejs
+   pkg update && pkg upgrade && pkg install nodejs-lts
 2. Install:
    ```bash
    pkg install npm
