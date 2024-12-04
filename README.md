@@ -21,6 +21,16 @@ Sc ini untuk ddos website dan sebagai catatan penting kalo mau ddos harus tunggu
 ## Instalasi
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek Anda:
 
-1. Clone repository:
+1. Install:
    ```bash
-   git clone https://github.com/username/proyek-luar-biasa.git
+   pkg update && pkg upgrade && pkg install nodejs && pkg install npm && npm install chalk axios 
+2. Clone repository:
+   ```bash
+   git clone https://github.com/zallmacodex/zallmaddos
+   pkg install npm
+1. Run:
+   ```bash
+   cd zallmaddos
+1. Run:
+   ```bash
+   node index.js
