@@ -1,23 +1,22 @@
-# Nama Proyek Anda
+# ZALLMA DDOSV¹
 
 ![Build Status](https://img.shields.io/travis/username/proyek-luar-biasa.svg)
 ![Coverage](https://img.shields.io/coveralls/username/proyek-luar-biasa.svg)
 
 ## Deskripsi
-Proyek ini adalah sebuah aplikasi yang memungkinkan pengguna untuk melakukan hal-hal luar biasa dengan cara yang mudah dan efisien.
+Sc ini untuk ddos website dan sebagai catatan penting kalo mau ddos harus tunggu lumayan lama agar lumayan tembus dan kalo bisa bareng bareng banyak agar tembus juga jangan lupa vpn nya okeh
 
 ## Daftar Isi
-- [Fitur](#fitur)
-- [Instalasi](#instalasi)
-- [Contoh Penggunaan](#contoh-penggunaan)
+- [Ddos](#fitur)
+- [Langsung masukan url target nanti dan kasih mau berapa detik](#contoh-penggunaan)
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
-- [Kontak](#kontak)
+- [@nandazzz01 - Telegram](#kontak)
 
 ## Fitur
-- 🔧 Fitur 1: Deskripsi fitur 1.
-- 🚀 Fitur 2: Deskripsi fitur 2.
-- 💡 Fitur 3: Deskripsi fitur 3.
+- 🔧 Ddos.
+- 🚀 Donasi.
+- 💡 Exit.
 
 ## Instalasi
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek Anda:
