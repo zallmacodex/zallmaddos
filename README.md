@@ -23,14 +23,19 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek Anda:
 
 1. Install:
    ```bash
-   pkg update && pkg upgrade && pkg install nodejs && pkg install npm && npm install chalk axios 
-2. Clone repository:
+   pkg update && pkg upgrade && pkg install nodejs
+2. Install:
+   ```bash
+   pkg install npm
+3. Clone repository:
    ```bash
    git clone https://github.com/zallmacodex/zallmaddos
-   pkg install npm
-1. Run:
+4. Run:
    ```bash
    cd zallmaddos
-1. Run:
+5. Install:
+   ```bash
+   npm install chalk axios 
+6. Run:
    ```bash
    node index.js
